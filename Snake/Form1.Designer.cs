@@ -28,22 +28,10 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.SuspendLayout();
-            // 
-            // Form1
-            // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
+            this.components = new System.ComponentModel.Container();
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(734, 711);
-            this.IsMdiContainer = true;
-            this.MaximizeBox = false;
-            this.MaximumSize = new System.Drawing.Size(750, 750);
-            this.MinimizeBox = false;
-            this.MinimumSize = new System.Drawing.Size(750, 750);
-            this.Name = "Form1";
+            this.ClientSize = new System.Drawing.Size(800, 450);
             this.Text = "Form1";
-            this.ResumeLayout(false);
-
         }
 
         #endregion
