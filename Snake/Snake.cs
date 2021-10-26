@@ -50,3 +50,6 @@ namespace Snake
     }
 }
 
+/// Úkol ----- Oba hadi pojedou, třída nahradí prototajp, Tlačítko pause, pustit, restart - hadi se vrátí na začátek
+/// Bonus ----- sražení hadů, reakce, 
+
